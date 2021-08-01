@@ -14,7 +14,7 @@ The project Template can be used to build bigger projects
 ## Live Application URL
 
 ### 
-This URL has the application deployed in
+This URL has the application deployed in - https://aditya-sridhar.github.io/simple-reactjs-app/customerlist
 
 ## Prerequisites
 
