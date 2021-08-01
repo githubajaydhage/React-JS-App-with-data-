@@ -29,9 +29,9 @@ npm install -g create-react-app
 ```
 ## Live Application URL
 
-The Application is deployed in 
+The Application is deployed in - 
 
-Click on the link to see the application
+Click on the link to see the application - https://aditya-sridhar.github.io/simple-reactjs-app/customerlist
 
 ## Cloning and Running the Application in local
 
